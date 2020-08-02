@@ -6,26 +6,26 @@ CP386: Assignment 4 - Spring 2020
 Motivation:
 To create a program that implements the banker's algorithm using threads.
 
-Installation:\n
+Installation:
 Place all files in one folder and execute the following commands to run:
 - mv makefile.mk Makefile
 - make
 - ./Assignment_4 [starting available resource values]
 
-Screenshots:\n
+Screenshots:
 ![image](https://user-images.githubusercontent.com/50429826/89113572-e39e0180-d440-11ea-8ff4-196fd9590f84.png)
 
 Individual contribution (Function-wise):
 All functions by Daniil Paskal
 
 Features:
-- 
 
-Tests:
+
+## Tests:
 See screenshots
 
 Code Example:
-Example of main function:
+Example of main function
 
 Authors:
 Daniil Paskal (180930850)
