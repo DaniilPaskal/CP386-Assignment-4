@@ -7,7 +7,7 @@ CP386: Assignment 4 - Spring 2020
 To create a program that implements the banker's algorithm using threads.
 
 ## Installation:
-Place all files in one folder and execute the following commands to run:
+Place 180930850_a04.c, makefile4.mk, and semple4_in.txt in one folder and execute the following commands to run:
 - mv makefile.mk Makefile
 - make
 - ./Assignment_4 [starting available resource values]
@@ -19,13 +19,14 @@ Place all files in one folder and execute the following commands to run:
 All functions by Daniil Paskal
 
 ## Features:
-
+Takes available resource values from user and customer demands from text file, implements operations for requesting and releasing resources, finds safe sequence using safety algorithm.
 
 ## Tests:
 See screenshots
 
 ## Code Example:
-Example of main function
+Example of main function: 
+![image](https://user-images.githubusercontent.com/50429826/89113981-96705e80-d445-11ea-937b-da015c0d0a55.png)
 
 ## Authors:
 Daniil Paskal (180930850)
